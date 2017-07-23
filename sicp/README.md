@@ -17,3 +17,7 @@
 [Structure and Interpretation of Computer Programs](http://mitpress.mit.edu/books/structure-and-interpretation-computer-programs) 2nd ed., by Abelson, Harold, Gerald Jay Sussman, and Julie Sussman.
 
 [Full text of SICP](https://mitpress.mit.edu/sicp/full-text/book/book.html)
+
+## 视频列表 - youku
+
+1. [Lecture 1a: Lisp 概览](http://v.youku.com/v_show/id_XNTEzMDAyMTU2.html)
